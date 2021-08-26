@@ -16,6 +16,8 @@ Gracias por visitar el perfil del alumno 👨‍🎓 ✨ Ismael Chavez ✨.
 - ⚡ Soy alumno de del ITT !
 
 
+### Horario
+
 | # | Materia                       | Profesor                            | Lunes   | Martes  | Miercoles | Jueves  | Viernes |
 |---|-------------------------------|-------------------------------------|---------|---------|-----------|---------|---------|
 | 1 | Ingenieria de Software        | Fernando Elihonai Saucedo Lares     | 1:00 pm | 1:00 pm | 1:00 pm   | 1:00 pm | 1:00 pm |
