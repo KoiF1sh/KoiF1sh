@@ -6,7 +6,7 @@
 ### Hola amigos 👋
 
 
-Gracias por visitar el perfil del alumno 👨‍🎓 ✨ Ismael Chavez ✨.
+Gracias por visitar el perfil del alumno 👨‍🎓 ✨ Ismael Chavez Perez ✨.
 
 - 🔭 Actualmente estoy trabajando en el desarrollo de aplicaciones y sitios web html5
 - 🌱 Actualmente estudio ingenieria en sistemas
